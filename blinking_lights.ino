@@ -20,7 +20,7 @@ void loop() {
   delay (x);
   if (i==1) {digitalWrite(5,LOW);}
   }
- 
+                                      //     E
  for (int i=5;i>1;i--){
   digitalWrite(i,HIGH);
   delay (x);
